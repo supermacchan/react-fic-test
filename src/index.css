@@ -17,4 +17,5 @@ code {
 :root {
   --background-color: pink;
   --title-color: #fff;
+  --active-color: rgb(185, 0, 71);
 }

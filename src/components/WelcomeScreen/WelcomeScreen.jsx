@@ -5,7 +5,9 @@ export const WelcomeScreen = () => {
         <section className={css.page}>
             <h1 className={css.title}>Вітаємо!</h1>
             <p className={css.message}>Пропонуємо пройти тест "З ким із FiCTiON у тебе ідеальний пейринг?"</p>
-            <button type='button' className={css.button}>Почнемо?</button>
+            <div className={css.btnContainer}>
+                <button type='button' className={css.button}>Почнемо?</button>
+            </div>
         </section>
     )
 }
