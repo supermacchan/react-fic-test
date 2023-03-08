@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-fic-test/static/css/main.e7e1ac38.css",
+    "main.css": "/react-fic-test/static/css/main.ff03c62a.css",
     "main.js": "/react-fic-test/static/js/main.b1056182.js",
     "static/media/star.png": "/react-fic-test/static/media/star.8747000318c07805fb90.png",
     "static/media/magic.png": "/react-fic-test/static/media/magic.d19d653309bd7e005e5e.png",
     "static/media/shine.png": "/react-fic-test/static/media/shine.a45d0a056c4bbef6d829.png",
     "index.html": "/react-fic-test/index.html",
-    "main.e7e1ac38.css.map": "/react-fic-test/static/css/main.e7e1ac38.css.map",
+    "main.ff03c62a.css.map": "/react-fic-test/static/css/main.ff03c62a.css.map",
     "main.b1056182.js.map": "/react-fic-test/static/js/main.b1056182.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7e1ac38.css",
+    "static/css/main.ff03c62a.css",
     "static/js/main.b1056182.js"
   ]
 }
