@@ -23,10 +23,12 @@ const fictionSlice = createSlice({
     name: "options",
     initialState: optionsState,
     reducers: {
-
+        pointToMacchan(state, action) {
+            state.macchan = (state.macchan + 1);
+        }
     }
 })
 
-// Экспортируем генераторы экшенов и редюсер
-// export const { setStatusFilter } = filtersSlice.actions;
+export const { pointToMacchan } = fictionSlice.actions;
 export const fictionReducer = fictionSlice.reducer;
+
