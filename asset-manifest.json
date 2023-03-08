@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/react-fic-test/static/css/main.7acaea2f.css",
-    "main.js": "/react-fic-test/static/js/main.07d3183d.js",
+    "main.css": "/react-fic-test/static/css/main.053ed973.css",
+    "main.js": "/react-fic-test/static/js/main.524f3ae4.js",
+    "static/media/star.png": "/react-fic-test/static/media/star.8747000318c07805fb90.png",
+    "static/media/magic.png": "/react-fic-test/static/media/magic.d19d653309bd7e005e5e.png",
+    "static/media/shine.png": "/react-fic-test/static/media/shine.a45d0a056c4bbef6d829.png",
     "index.html": "/react-fic-test/index.html",
-    "main.7acaea2f.css.map": "/react-fic-test/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react-fic-test/static/js/main.07d3183d.js.map"
+    "main.053ed973.css.map": "/react-fic-test/static/css/main.053ed973.css.map",
+    "main.524f3ae4.js.map": "/react-fic-test/static/js/main.524f3ae4.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.053ed973.css",
+    "static/js/main.524f3ae4.js"
   ]
 }
