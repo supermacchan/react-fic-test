@@ -2,7 +2,7 @@ import css from "./Question.module.css";
 
 export const Question = ({ question }) => {
     return (
-        <section>
+        <section className={css.page}>
             Shalala
         </section>
     )
