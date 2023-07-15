@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-fic-test/static/css/main.d5410915.css",
-    "main.js": "/react-fic-test/static/js/main.db55a2e7.js",
+    "main.css": "/react-fic-test/static/css/main.59613ab2.css",
+    "main.js": "/react-fic-test/static/js/main.b3775b0b.js",
     "static/media/star.png": "/react-fic-test/static/media/star.8747000318c07805fb90.png",
     "static/media/magic.png": "/react-fic-test/static/media/magic.d19d653309bd7e005e5e.png",
     "static/media/shine.png": "/react-fic-test/static/media/shine.a45d0a056c4bbef6d829.png",
     "index.html": "/react-fic-test/index.html",
-    "main.d5410915.css.map": "/react-fic-test/static/css/main.d5410915.css.map",
-    "main.db55a2e7.js.map": "/react-fic-test/static/js/main.db55a2e7.js.map"
+    "main.59613ab2.css.map": "/react-fic-test/static/css/main.59613ab2.css.map",
+    "main.b3775b0b.js.map": "/react-fic-test/static/js/main.b3775b0b.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5410915.css",
-    "static/js/main.db55a2e7.js"
+    "static/css/main.59613ab2.css",
+    "static/js/main.b3775b0b.js"
   ]
 }
